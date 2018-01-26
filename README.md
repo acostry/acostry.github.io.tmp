@@ -93,8 +93,10 @@
 ## 技术文章
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
+- [使用 IBM Bluemix 开发和部署 Python 应用](https://www.ibm.com/developerworks/cn/cloud/library/cl-cn-bluemix-python-application/)
+- [如何使用 IBM Bluemix 开发下一代云应用](http://www.ibm.com/developerworks/cn/cloud/library/1512_zhuxl_bluemixapp/) 
+- [初探 IBM Bluemix 带您领略平台云](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1406_zhuxl_bluemix/1406_zhuxl_bluemix.html)
+- [详解 IBM Bluemix端到端开发体验](http://blog.csdn.net/acostry/article/details/42107551)
 
 ## 演讲和讲义
 （放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
