@@ -97,6 +97,22 @@
 - [如何使用 IBM Bluemix 开发下一代云应用](http://www.ibm.com/developerworks/cn/cloud/library/1512_zhuxl_bluemixapp/) 
 - [初探 IBM Bluemix 带您领略平台云](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1406_zhuxl_bluemix/1406_zhuxl_bluemix.html)
 - [详解 IBM Bluemix端到端开发体验](http://blog.csdn.net/acostry/article/details/42107551)
+- [Protect your resources with the Bluemix App User Registry Add-on](http://www.ibm.com/developerworks/cloud/library/cl-oauthregistry-app/index.html)
+- [使用 Bluemix App User Registry Add-on 保护资源](http://www.ibm.com/developerworks/cn/cloud/library/cl-oauthregistry-app/index.html)
+- [如何在 WebSphere Application Server V8 中部署和管理 OSGi 应用](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1204_zhuxl_osgi/1204_zhuxl_osgi.html)
+- [新一代轻量级应用服务器：WebSphere Liberty Profile Server 介绍](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1207_zhuxl_liberty/1207_zhuxl_liberty.html)
+- [使用 WebSphere Liberty Profile Server 和 Eclipse 开发 OSGi 应用](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1208_zhuxl_libertyosgi/1208_zhuxl_libertyosgi.html)
+- [使用 IBM Packaging Utility 定制 WebSphere Application Server 软件存储库](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1208_zhuxl_utilty/1208_zhuxl_utilty.html)
+-[使用 Rational Development 工具和 WebSphere Application Server V8.5 开发基于 EJB 的 OSGi 应用](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1211_zhuxl_osgi/1211_zhuxl_osgi.html)
+- [企业级 OSGi 带来的好处](http://www.ibm.com/developerworks/cn/websphere/techjournal/1112_zhuxl_osgi/1112_zhuxl_osgi.html)
+- [如何在 AIX shared-system WPAR 中共享 WAS 安装文件](http://www.ibm.com/developerworks/cn/aix/library/1111_zhuxl_aixsharedwpar_was/)
+- [WebSphere Edge Load Balancer 在IBM System z上的安装、配置和使用](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1110_zhuxl_welb/1110_zhuxl_welb.html)
+- [如何在WebSphere Application Server V8中实现OSGi动态服务功能](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1109_zhuxl_osgi/1109_zhuxl_osgi.html?ca=drs-)
+- [WebSphere 中池资源调优 - 线程池、连接池和 ORB](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1106_zhuxl_websphereenhancement/1106_zhuxl_websphereenhancement.html)
+- [WebSphere Application Server V7 OSGi新特性介绍](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1104_suipf_ogsioverview/1104_suipf_ogsioverview.html)
+- [WebSphere Edge Load Balancer 在 IBM AIX 7.1 上的安装、配置和使用](http://www.ibm.com/developerworks/cn/aix/library/1102_zhuxl_wesonaix/)
+- 更多文章可以查阅个人微信公众号(ID: IBMBluemix)以及技术博客！
+
 
 ## 演讲和讲义
 （放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
