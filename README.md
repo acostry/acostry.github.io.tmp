@@ -43,11 +43,7 @@
  - 个人微信公众号：LearningBluemix (微信号：IBMBluemix, 介绍：关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术。订阅用户数：1000+)  
  - 技术博客：CSDN(http://blog.csdn.net/acostry) developWorks(https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
  - Github: https://github.com/acostry 
- 
- - 主持过的社区：
- - 期望职位：系统架构师，应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：北京
+ - 主持过的社区：[Icap 中文社区](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=84a69364-28a8-4f9e-ab63-4b22a408082b) (Icap 是 IBM Public Cloud 的前身，是一个更加简便、快速的开发和管理云应用的平台，集合了 Mobile、WebSphere 以及 Cloud 的优势，将面向云的应用开发带入了一个新纪元！)
 
 ---
 
