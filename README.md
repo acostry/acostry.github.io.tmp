@@ -103,7 +103,7 @@
 - [新一代轻量级应用服务器：WebSphere Liberty Profile Server 介绍](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1207_zhuxl_liberty/1207_zhuxl_liberty.html)
 - [使用 WebSphere Liberty Profile Server 和 Eclipse 开发 OSGi 应用](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1208_zhuxl_libertyosgi/1208_zhuxl_libertyosgi.html)
 - [使用 IBM Packaging Utility 定制 WebSphere Application Server 软件存储库](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1208_zhuxl_utilty/1208_zhuxl_utilty.html)
--[使用 Rational Development 工具和 WebSphere Application Server V8.5 开发基于 EJB 的 OSGi 应用](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1211_zhuxl_osgi/1211_zhuxl_osgi.html)
+- [使用 Rational Development 工具和 WebSphere Application Server V8.5 开发基于 EJB 的 OSGi 应用](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1211_zhuxl_osgi/1211_zhuxl_osgi.html)
 - [企业级 OSGi 带来的好处](http://www.ibm.com/developerworks/cn/websphere/techjournal/1112_zhuxl_osgi/1112_zhuxl_osgi.html)
 - [如何在 AIX shared-system WPAR 中共享 WAS 安装文件](http://www.ibm.com/developerworks/cn/aix/library/1111_zhuxl_aixsharedwpar_was/)
 - [WebSphere Edge Load Balancer 在IBM System z上的安装、配置和使用](http://www.ibm.com/developerworks/cn/websphere/library/techarticles/1110_zhuxl_welb/1110_zhuxl_welb.html)
