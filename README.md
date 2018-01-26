@@ -84,7 +84,7 @@
 # 专利和作品
 
 ## 发明专利
-在 2016 年获得 [IBM Invention Plateau Award](certificate/Invention%20Plateau.jpg)
+在 2016 年获得 [IBM Invention Plateau](certificate/Invention%20Plateau.jpg) Award
 
  - CN920150218US1 - LOCAL CONSUMPTION OF REMOTE SERVICES: 本专利是关于如何在本地开发时让应用程序可以直接使用部署在云端的各种服务。
  - CN920150241US1 - DEBUGGING CLOUD APPLICATIONS: 本专利提出了一种更轻量级，更简便的方法在本地远程调试运行在云端的应用程序。
@@ -112,11 +112,11 @@
 - [WebSphere Edge Load Balancer 在 IBM AIX 7.1 上的安装、配置和使用](http://www.ibm.com/developerworks/cn/aix/library/1102_zhuxl_wesonaix/)
 - 更多文章可以查阅个人微信公众号(ID: IBMBluemix)以及技术博客！
 
-
 ## 演讲和讲义
 
-  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
- - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
+  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/) [录像]() [讲义]()
+  2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
+  - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
 
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
