@@ -41,7 +41,7 @@
  - 硕士研究生/北京理工大学计算机科学与技术学院 
  - 工作年限：8+年
  - 个人微信公众号：[LearningBluemix](certificate/learningbluemix.jpg) (微信号：IBMBluemix, 介绍：关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术。当前订阅用户数：1000+) 
- - 技术博客：1 - [CSDN Blog](http://blog.csdn.net/acostry)   2 - [developWorks Blog](https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
+ - 技术博客：1 - [CSDN Blog](http://blog.csdn.net/acostry),   2 - [developWorks Blog](https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
  - Github: https://github.com/acostry  
 
 ---
@@ -135,7 +135,7 @@
 # 其他
 
   - 为 IBM 公有云平台 Bluemix 骇客马拉松拍摄宣传短片: [Bluemix 短跑节——开发者锦标赛：够胆你就来](https://v.qq.com/x/page/u01531ihc0l.html)
-  - 为 IBM Bluemix 宣传短片的脚本进行审查和更正: 1 - [IBM Bluemix 快到让你没有时间享受工作](http://v.youku.com/v_show/id_XOTIwMzAzMzI4.html)  2 - [IBM Bluemix 做你最想做的程序](http://v.youku.com/v_show/id_XOTIwMzE2NDA4.html) 3 - [IBM Bluemix 帮你整合全球资源尽在“不言中”](http://v.youku.com/v_show/id_XOTIwMzE3MTAw.html)
+  - 为 IBM Bluemix 宣传短片的脚本进行审查和更正: 1 - [IBM Bluemix 快到让你没有时间享受工作](http://v.youku.com/v_show/id_XOTIwMzAzMzI4.html),  2 - [IBM Bluemix 做你最想做的程序](http://v.youku.com/v_show/id_XOTIwMzE2NDA4.html), 3 - [IBM Bluemix 帮你整合全球资源尽在“不言中”](http://v.youku.com/v_show/id_XOTIwMzE3MTAw.html)
 
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
