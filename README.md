@@ -81,17 +81,15 @@
 
 ---
 
-# 开源项目和作品
-（这一段用于放置工作以外的、可证明你的能力的材料）
+# 专利和作品
 
-## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
+## 发明专利
 
- - [STU](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname) : 项目的简要说明，Star和Fork数多的可以注明
+ - CN920150218US1 - LOCAL CONSUMPTION OF REMOTE SERVICES: 本专利是关于如何在本地开发时让应用程序可以直接使用部署在云端的各种服务。
+ - CN920150241US1 - DEBUGGING CLOUD APPLICATIONS: 本专利提出了一种更轻量级，更简便的方法在本地远程调试运行在云端的应用程序。
+ - 在 2016 年获得 IBM Invention Plateau Award.
 
 ## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
 - [使用 IBM Bluemix 开发和部署 Python 应用](https://www.ibm.com/developerworks/cn/cloud/library/cl-cn-bluemix-python-application/)
 - [如何使用 IBM Bluemix 开发下一代云应用](http://www.ibm.com/developerworks/cn/cloud/library/1512_zhuxl_bluemixapp/) 
@@ -115,7 +113,6 @@
 
 
 ## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
 
   - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
  - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
