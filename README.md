@@ -40,17 +40,15 @@
  - 朱修磊/男/1985 
  - 硕士研究生/北京理工大学计算机科学与技术学院 
  - 工作年限：8+年
- - 个人微信公众号：LearningBluemix (微信号：IBMBluemix, 介绍：关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术。订阅用户数：1000+)  
- - 技术博客：CSDN(http://blog.csdn.net/acostry) developWorks(https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
- - Github: https://github.com/acostry 
- - 主持过的社区：
+ - 个人微信公众号：[LearningBluemix](certificate/learningbluemix.jpg) (微信号：IBMBluemix, 介绍：关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术。当前订阅用户数：1000+) 
+ - 技术博客：[CSDN Blog](http://blog.csdn.net/acostry) [developWorks Blog](https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
+ - Github: https://github.com/acostry  
 
 ---
 
 # 工作经历
-（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
 
-## ABC公司 （ 2012年9月 ~ 2014年9月 ）
+## IBM 中国开发实验室（ 2009年9月 ~ 至今 ）
 
 ### DEF项目 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
