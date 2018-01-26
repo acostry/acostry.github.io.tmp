@@ -90,6 +90,7 @@
  - CN920150241US1 - DEBUGGING CLOUD APPLICATIONS: 本专利提出了一种更轻量级，更简便的方法在本地远程调试运行在云端的应用程序。
 
 ## 技术文章
+在 2015 年获得 [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号  
 
 - [使用 IBM Bluemix 开发和部署 Python 应用](https://www.ibm.com/developerworks/cn/cloud/library/cl-cn-bluemix-python-application/)
 - [如何使用 IBM Bluemix 开发下一代云应用](http://www.ibm.com/developerworks/cn/cloud/library/1512_zhuxl_bluemixapp/) 
@@ -111,8 +112,6 @@
 - [WebSphere Edge Load Balancer 在 IBM AIX 7.1 上的安装、配置和使用](http://www.ibm.com/developerworks/cn/aix/library/1102_zhuxl_wesonaix/)
 - 更多文章可以查阅个人微信公众号(ID: IBMBluemix)以及技术博客！
 
-在 2015 年获得 IBM developerWorks Accredited Author 称号  
-![image](certificate/IBM%20developerWorks%20Accredited%20Author.jpg)
 
 ## 演讲和讲义
 
