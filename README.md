@@ -117,7 +117,9 @@
   - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/) [录像]() [讲义]()
   - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution]() 
   - 公司内部及外部客户分享：[IBM Bluemix Workshop]()
-  - 大连理工大学软件学院 授课 [IBM WebSphere Application Server On Windows V7管理培训(WA370)](http://www.avtechcn.com/course/was370/)
+  - 2011 年北京理工大学共建系(软件学院): [我眼中的 IBM](resources/我眼里的IBM_XiuLei.pdf) 
+  - 2010 年大连理工大学软件学院 授课 [IBM WebSphere Application Server On Windows V7管理培训(WA370)](http://www.avtechcn.com/course/was370/)
+  
 
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
