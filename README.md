@@ -114,8 +114,9 @@
 
 ## 演讲和讲义
 
-  - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
   - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/) [录像]() [讲义]()
+  - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution]() 
+  - 公司内部及外部客户分享：[IBM Bluemix Workshop]()
 
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
