@@ -83,7 +83,7 @@
 # 专利和作品
 
 ## 发明专利
-在 2016 年获得 [IBM Invention Plateau](certificate/Invention%20Plateau.jpg) Award
+在 2016 年获得 [IBM Invention Plateau](certificate/Invention%20Plateau.jpg) 奖项
 
  - CN920150218US1 - LOCAL CONSUMPTION OF REMOTE SERVICES: 本专利是关于如何在本地开发时让应用程序可以直接使用部署在云端的各种服务。
  - CN920150241US1 - DEBUGGING CLOUD APPLICATIONS: 本专利提出了一种更轻量级，更简便的方法在本地远程调试运行在云端的应用程序。
