@@ -121,6 +121,10 @@
   - 2011 年北京理工大学共建系(软件学院): [我眼中的 IBM](resources/我眼里的IBM_XiuLei.pdf) 
   - 2010 年大连理工大学软件学院 授课 [IBM WebSphere Application Server On Windows V7管理培训(WA370)](http://www.avtechcn.com/course/was370/)
   
+# 其他
+
+  - IBM 公有云平台 Bluemix 骇客马拉松短片主演: [Bluemix 短跑节——开发者锦标赛：够胆你就来](https://v.qq.com/x/page/u01531ihc0l.html)
+  - 宣传短片脚本审查和更正: 1 - [IBM Bluemix 快到让你没有时间享受工作](http://v.youku.com/v_show/id_XOTIwMzAzMzI4.html)  2 - [IBM Bluemix 做你最想做的程序](http://v.youku.com/v_show/id_XOTIwMzE2NDA4.html) 3 - [IBM Bluemix 帮你整合全球资源尽在“不言中”](http://v.youku.com/v_show/id_XOTIwMzE3MTAw.html)
 
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
