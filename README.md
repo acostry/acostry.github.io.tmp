@@ -89,7 +89,7 @@
  - CN920150241US1 - DEBUGGING CLOUD APPLICATIONS: 本专利提出了一种更轻量级，更简便的方法在本地远程调试运行在云端的应用程序。
 
 ## 技术文章
-在 2015 年获得 [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号  
+在 2015 年获得 [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号 (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))  
 
 - [使用 IBM Bluemix 开发和部署 Python 应用](https://www.ibm.com/developerworks/cn/cloud/library/cl-cn-bluemix-python-application/)
 - [如何使用 IBM Bluemix 开发下一代云应用](http://www.ibm.com/developerworks/cn/cloud/library/1512_zhuxl_bluemixapp/) 
