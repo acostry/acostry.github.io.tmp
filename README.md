@@ -115,7 +115,6 @@
 ## 演讲和讲义
 
   - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/) [录像]() [讲义](resources/PyconHK2016-Bluemix.pdf)
-  2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
   - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
 
 # 技能清单
