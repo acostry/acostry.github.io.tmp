@@ -40,9 +40,11 @@
  - 朱修磊/男/1985 
  - 硕士研究生/北京理工大学计算机科学与技术学院 
  - 工作年限：8+年
- - 技术博客：http://blog.csdn.net/acostry  ( ``` 使用GitHub Host的Big较高 ```  )
- - Github: http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
-
+ - 个人微信公众号：LearningBluemix (微信号：IBMBluemix, 介绍：关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术。订阅用户数：1000+)  
+ - 技术博客：CSDN(http://blog.csdn.net/acostry) developWorks(https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
+ - Github: https://github.com/acostry 
+ 
+ - 主持过的社区：
  - 期望职位：系统架构师，应用架构师
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
  - 期望城市：北京
