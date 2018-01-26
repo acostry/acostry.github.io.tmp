@@ -84,12 +84,13 @@
 # 专利和作品
 
 ## 发明专利
+（在 2016 年获得 IBM Invention Plateau Award）
 
  - CN920150218US1 - LOCAL CONSUMPTION OF REMOTE SERVICES: 本专利是关于如何在本地开发时让应用程序可以直接使用部署在云端的各种服务。
  - CN920150241US1 - DEBUGGING CLOUD APPLICATIONS: 本专利提出了一种更轻量级，更简便的方法在本地远程调试运行在云端的应用程序。
- - 在 2016 年获得 IBM Invention Plateau Award.
 
 ## 技术文章
+（在 2015 年获得 IBM developerWorks Accredited Author 称号）
 
 - [使用 IBM Bluemix 开发和部署 Python 应用](https://www.ibm.com/developerworks/cn/cloud/library/cl-cn-bluemix-python-application/)
 - [如何使用 IBM Bluemix 开发下一代云应用](http://www.ibm.com/developerworks/cn/cloud/library/1512_zhuxl_bluemixapp/) 
