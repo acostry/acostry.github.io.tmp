@@ -114,8 +114,8 @@
 
 ## 演讲和讲义
 
-  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/) [录像]() [讲义](resources/PyconHK2016-Bluemix.pdf)
   - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
+  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/) [录像]() [讲义]()
 
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
