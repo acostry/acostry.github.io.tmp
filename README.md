@@ -114,9 +114,10 @@
 
 ## 演讲和讲义
 
-  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/) [录像]() [讲义]()
-  - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution]() 
-  - 公司内部及外部客户分享：[IBM Bluemix Workshop]()
+  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/) [录像]() [讲义](resources/PyconHK2016-Bluemix.pdf)
+  - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution](resources/TAW-1822 TeamSun Liberty V3.pdf) 
+  - 公司内部及外部客户分享：[IBM Bluemix Workshop](resources/IBM_Bluemix_WorkShop_V2.pdf) [WebSphere Application Server Liberty Profile](resources/WASV85_Jam_Liberty_Overview.pdf) [Modular & Dynamic OSGi Applications in WebSphere Application Server](resources/WASV8_Jam_OSGi.pdf)
+  - 2012 年广发银行 WebSphere Workshop(负责翻译): [Introducing IBM WebSphere Application Server v8.5 - The Future Is Now](resources/AI Workshop CGB China Aug 2012 client.pdf)
   - 2011 年北京理工大学共建系(软件学院): [我眼中的 IBM](resources/我眼里的IBM_XiuLei.pdf) 
   - 2010 年大连理工大学软件学院 授课 [IBM WebSphere Application Server On Windows V7管理培训(WA370)](http://www.avtechcn.com/course/was370/)
   
