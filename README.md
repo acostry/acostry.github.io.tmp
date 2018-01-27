@@ -104,7 +104,7 @@
 # 社团(区)工作
 
 ## China Cloud Computing Community
-分别在 2015 年和 2016 年担任 IBM 大中华区的内部社团 C4(China Cloud Computing Community) 的主席。C4 的宗旨是“传播云技术，践行云理念，推进云计算成为公司转型的动力！” 在任职期间，带领团队组织并参与多次关于云计算的内外部分享(包括主题演讲，动手实验室，骇客马拉松等等)；成功举办了大中华区第一次 “IBM 云平台 Bluemix 冠军大赛” ；并参与公司大学合作部的项目，在大学进行关于 IBM 云平台和云计算的主题演讲以及相关课程验收。
+分别在 2015 年和 2016 年担任 IBM 大中华区的内部社团 C4(China Cloud Computing Community) 的主席。C4 的宗旨是“传播云技术，践行云理念，推进云计算成为公司转型的动力！” 在任职期间，带领团队组织并参与多次关于云计算的内外部分享(包括主题演讲，动手实验室，骇客马拉松等等)；成功举办了大中华区第一次 “IBM 云平台 Bluemix 冠军编程大赛” ；并参与公司大学合作部的项目，在大学进行关于 IBM 云平台和云计算的主题演讲以及相关课程验收。
 
 ## LearningBluemix 微信公众号
 [LearningBluemix](certificate/learningbluemix.jpg) (微信号：IBMBluemix)是我的个人微信公众号，主要关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术，当前订阅用户数：1000+。该公众号大部分为原创文章，内容涉及 IBM 云平台，Cloud Foundry, Kubernetes 以及 Docker等云技术，旨在推广相关云产品和云技术在企业级领域的应用。
@@ -118,22 +118,6 @@
 
   - 为 IBM 公有云平台 Bluemix 骇客马拉松拍摄宣传短片: [Bluemix 短跑节——开发者锦标赛：够胆你就来](https://v.qq.com/x/page/u01531ihc0l.html)
   - 为 IBM Bluemix 市场推广短片的脚本进行审查和更正: 1 - [IBM Bluemix 快到让你没有时间享受工作](http://v.youku.com/v_show/id_XOTIwMzAzMzI4.html),  2 - [IBM Bluemix 做你最想做的程序](http://v.youku.com/v_show/id_XOTIwMzE2NDA4.html), 3 - [IBM Bluemix 帮你整合全球资源尽在“不言中”](http://v.youku.com/v_show/id_XOTIwMzE3MTAw.html)
-
----
-
-# 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
-
-以下均为我熟练使用的技能
-
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
 
 ---
 
