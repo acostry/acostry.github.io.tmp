@@ -2,7 +2,7 @@
 
 - 手机：13581649539
 - Email：zhuxiulei@gmail.com
-- 微信号：acostry
+- 微信号：[acostry](certificate/acostryweichat.jpeg)
 
 ---
 
@@ -11,6 +11,7 @@
  - 朱修磊/男/1985 
  - 硕士研究生/北京理工大学计算机科学与技术学院 
  - 工作年限：8+年
+ - 工作地点：北京
  - 个人微信公众号：[LearningBluemix](certificate/learningbluemix.jpg) (微信号：IBMBluemix, 介绍：关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术。当前订阅用户数：1000+) 
  - 技术博客：1 - [CSDN Blog](http://blog.csdn.net/acostry),   2 - [developWorks Blog](https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
  - Github: [acostry](https://github.com/acostry)
