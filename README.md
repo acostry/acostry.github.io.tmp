@@ -52,15 +52,25 @@
 
 ### Cloud Availability Manager(AVM) / Emergency Response Manager(ERM) 
 
-从2017年3月至今，做为 AVM(刚开始叫ERM) 主要职责是维护和保证 IBM 云平台(公有云/专有云/私有云)的稳定性和可用性。当云平台上出现重大的影响客户的事件(CIE-Customer Impacting Events)时，第一时间确认并响应事件，协调一切资源，并领导各个相关团队尽一切努力快速解决问题，减少平均修复时间(MTTR-Mean Time to Repair)，并完成和追踪事件的根本原因分析(RCA-Root Cause Analysis)。
+2017年3月至今，做为 AVM(刚开始叫ERM) 主要职责是维护和保证 IBM 云平台(公有云/专有云/私有云)的稳定性和可用性。当云平台上出现重大的影响客户的事件(CIE-Customer Impacting Events)时，第一时间确认并响应事件，协调一切资源，并领导各个相关团队尽一切努力快速解决问题，减少平均修复时间(MTTR-Mean Time to Repair)，并完成和追踪事件的根本原因分析(RCA-Root Cause Analysis)。
 
-日常工作主要包括：在出现 CIE 之前，进行常规的警报监控，积极响应并处理来自各个相关团队的求助，尽可能在第一时间发现潜在的 CIE，并指导团队迅速处理；在 CIE 发生的时候，提供技术协助给运维及相关服务团队，负责事件的外部用户通知以及内部的事件定期汇报，在必要的时候，与客户进行直接沟通，最大程度的去满足客户和快速响应来自各方面的请求；在 CIE 之后，一方面进行事件的根本原因分析，另一方面负责与受影响的服务团队进行对接，制定预防计划，防止相同事件再次发生。在 CIE 和 RCA 之外，我的主要时间用来进行团队内部的技术分享和学习，比如：创建并更新维护 AVM/ERM 运行手册(Runbook)，分享相关领域内技术，并不断深入学习云计算相关领域技术和产品。
+日常工作主要包括：在出现 CIE 之前，进行常规的警报监控，积极响应并处理来自各个相关团队的求助，尽可能在第一时间发现潜在的 CIE，并指导团队迅速处理；在 CIE 发生的时候，提供技术协助给运维及相关服务团队，参与解决问题，负责事件的外部用户通知以及内部的事件定期汇报，在必要的时候，与客户进行直接沟通，最大程度的去满足客户和快速响应来自各方面的请求；在 CIE 之后，一方面进行事件的根本原因分析，另一方面负责与受影响的服务团队进行对接，制定预防计划，防止相同事件再次发生。在 CIE 和 RCA 之外，我的主要时间用来进行团队内部的技术分享和学习，比如：创建并更新维护 AVM/ERM 运行手册(Runbook)，分享相关领域内技术，并不断深入学习云计算相关领域技术和产品。
 
-在这个项目中，最困难的问题是如何高效的协调不同的团队来解决事件和进行事后的根本原因分析，我主要采用以下两个措施来应对：1. 提高自身领域内的技术能力，在事件发生时，提供切实有效的解决方案和关键建议。2. 不断提高软技能，提升自身领导力，在事件发生的紧急时刻，依然能够冷静的指导团队解决问题，在进行根本原因分析时，灵活采用各种有效的沟通方式，与相关团队一起制定切实有效的预防计划。
+在这个项目中，最困难的问题是如何高效的协调不同的团队来解决事件和进行事后的根本原因分析，我主要采用以下两个措施来应对：1. 提高自身领域内的技术能力，在事件发生时，提供切实有效的解决方案和关键建议。2. 不断提高软技能，提升自身领导力，在事件发生的紧急时刻，依然能够冷静的指导团队解决问题，在进行根本原因分析时，灵活采用各种有效的沟通方式，与相关团队一起制定切实有效的预防计划。通过持续的践行这两个措施，个人不但在技术上日益提高，而且还和各个服务团队建立起了良好的沟通渠道，这些都成为了高效完成工作的保障。
 
-工作内容主要涉及的技术领域和相关产品包括(但不限于)：IBM Cloud(Bluemix), IBM Container Service, Cloud Foundry, Docker, Kubernetes, Linux Shell, IBM Cloud Private, Go等等。
+工作内容主要涉及的相关技术，产品和工具包括(但不限于)：IBM Cloud(Bluemix), IBM Container Service, Cloud Foundry, Docker, Kubernetes, Linux Shell, IBM Cloud Private, Go, Grafana, Pagerduty, ServiceNow, Slack等等。
 
 ### 云平台自动化测试
+
+2013年初到2017年初，主要的工作职责是 IBM 云平台(公有云/专有云/私有云)的质量保证。工作的形式主要是测试开发，完善并自动化测试用例，构建整套的自动化测试流程，并搭建适用于整个云平台的 Pipeline，确保所有的组件和服务在部署到生产系统之前经过严格的测试和检验，整个过程全部自动化，以满足云计算时代的更新上线频率，尽可能的减少人为失误。
+
+日常工作主要包括：自动化测试用例的设计与开发(Java/Junit/Maven/Jmeter/Jenkins/Docker...), 为了构建云平台的 Pipeline, 基于已有的测试用例，搭建全新的自动化测试框架(Jenkins/Docker/)
+
+
+
+
+
+
 
 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
@@ -120,7 +130,7 @@
 
 ## 演讲和讲义
 
-  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/)    [录像回放]()    [讲义](resources/PyconHK2016-Bluemix.pdf)
+  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/)    [录像回放](http://v.youku.com/v_show/id_XMzM1ODU4OTE3Mg==.html?spm=a2h3j.8428770.3416059.1)(从 00:59:00 开始)    [讲义](resources/PyconHK2016-Bluemix.pdf)
   - 视频：[IBM Bluemix - Why? What? AND How? (Chinese-中文版)](https://v.qq.com/x/page/p0193fp5d1z.html)
   - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution](resources/TAW-1822%20TeamSun%20Liberty%20V3.pdf) 
   - 公司内部及外部客户分享：1 - [IBM Bluemix Workshop](resources/IBM_Bluemix_WorkShop_V2.pdf),   2 - [WebSphere Application Server Liberty Profile](resources/WASV85_Jam_Liberty_Overview.pdf),   3 - [Modular & Dynamic OSGi Applications in WebSphere Application Server](resources/WASV8_Jam_OSGi.pdf)
