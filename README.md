@@ -29,7 +29,7 @@
 
 在这个项目中，最困难的问题是如何高效的协调不同的团队来解决事件和进行事后的根本原因分析，我主要采用以下两个措施来应对：1. 提高自身领域内的技术能力，在事件发生时，提供切实有效的解决方案和关键建议。2. 不断提高软技能，提升自身领导力，在事件发生的紧急时刻，依然能够冷静的指导团队解决问题，在进行根本原因分析时，灵活采用各种有效的沟通方式，与相关团队一起制定切实有效的预防计划。通过持续的践行这两个措施，个人不但在技术上日益提高，而且还和各个服务团队建立起了良好的沟通渠道，这些都成为了高效完成工作的保障。
 
-工作内容主要涉及的相关技术，产品和工具包括(但不限于)：IBM Cloud(Bluemix), IBM Container Service, Cloud Foundry, Docker, Kubernetes, Linux Shell, IBM Cloud Private, Go, Grafana, Pagerduty, ServiceNow, Slack等等。
+工作内容主要涉及的相关技术，产品和工具包括(但不限于)：IBM Cloud(Bluemix), IBM Container Service, Cloud Foundry, Docker, Kubernetes, Linux Shell, IBM Cloud Private, Go, Grafana, Pagerduty, ServiceNow, Slack等。
 
 ### 云平台自动化测试
 
@@ -43,18 +43,25 @@
 
 2013年初至今，一直都在从事 IBM 云平台和云技术的布道和推广工作，旨在国内传播云技术以及构建云相关生态系统。这些工作虽然繁琐，但是却很有价值：首先，可以直接面对国内的云开发者，了解第一手的需求和国内的云技术发展现状，并将这些信息反馈给公司内部开发部门，基于此可以更好的指导和开发适合国内企业和个人的云产品和解决方案。其次，传播云技术的过程，也是个人不断学习新技术和提高业务能力的过程，不仅掌握了云技术，同时也了解了云技术在实际企业中的应用。
 
-布道云平台/云技术，主要通过如下几种方式：1. 在技术网站/博客/社交媒体等发表文章(举例：[文章列表](#技术文章), [微信公众号](#learningbluemix-微信公众号))
+布道云平台/云技术，主要通过如下几种方式：1. 在技术网站/博客/社交媒体等发表文章(例如：[文章列表](#技术文章)，[微信公众号](#learningbluemix-微信公众号)，[博客](#个人信息)等)。2. 参加公司内外部举行的技术峰会，进行交流和学习(例如：[演讲和讲义](#演讲和讲义)，PyConHK2016-主题演讲，第七届中国云计算大会-Bluemix Lab，2013 Qcon 北京峰会-Bluemix Lab, 每年度 IBM 大中华区技术峰会-Bluemix Workshop等)。3.为多家公司和企业介绍 IBM 云产品和云技术(例如：CCTV/清源云顶/KaiKeBa/21v/Taiji Smart-T) 4. 举办并参加线上/线下的技术交流，骇客马拉松以及开发者见面会(例如：[IBM Bluemix开发者锦标赛评委](http://2015bmix.csdn.net/)，IBM 大中华区 Bluemix 冠军编程大赛，北京大学骇客马拉松，武汉大学-Bluemix校园行，Bluemix 开发者吐槽会等)。
+(因篇幅限制，以上举例仅是部分。)
 
+工作内容主要涉及的相关技术，产品和工具包括(但不限于)：IBM Cloud(Bluemix), PaaS, 容器, Java, Node.js, DB2, Mongo, Github, IBM Container Service, Cloud Foundry等。
 
+### WebShpere 系统测试
 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+2009年9月到2012年末，主要的工作职责是 Websphere Application Server(WAS) 系列中间件产品的质量保证(主要包括系统集成测试和系统验证性测试)。团队主要负责从终端用户的角度出发，开发端到端的测试用例并执行，同时也为国内 WAS 中间件客户提供线下支持。
+
+我的工作内容主要有：WAS V6/V7 版本在新版本系统操作系统上的验证性测试，WAS V7 OSGi/V8/V8.5 版本的系统测试，除了要执行测试用例外，还需要根据新功能开发新的测试用例；对国内 WAS 中间件客户进行客户支持(例如：华胜天成/广发银行/华为/中国电信/中国建设银行/中国工商银行/中国人民银行/用友等)
+
+工作内容主要涉及的相关技术，产品和工具包括(但不限于)：J2EE, WAS, WAS Liberty, Java, OSGi, Eclipse, Tomcat等。
 
 ---
 
 # 专利和作品
 
 ## 发明专利
-在 2016 年获得 [IBM Invention Plateau](certificate/Invention%20Plateau.jpg) 奖项
+在 2016 年获得 [IBM Invention Plateau](certificate/Plateau.jpeg) 奖项
 
  - CN920150218US1 - LOCAL CONSUMPTION OF REMOTE SERVICES: 本专利是关于如何在本地开发时让应用程序可以直接使用部署在云端的各种服务。
  - CN920150241US1 - DEBUGGING CLOUD APPLICATIONS: 本专利提出了一种更轻量级，更简便的方法在本地远程调试运行在云端的应用程序。
