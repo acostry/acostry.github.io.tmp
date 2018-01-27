@@ -58,7 +58,7 @@
 
 ### 荣誉和奖项
 
-在 IBM 工作的8+年，获得过一些公司成面的荣誉和奖项，例如：[Technical Rock Star](certificate/TRS_Annual.pdf)($13,000), [IBM Invention Plateau](certificate/Plateau.jpeg)($1,200), [Social Business Impact Award](certificate/SocialBusinessImpactAward.jpg)($1,000), [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号 (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))等
+在 IBM 工作的8+年，获得过一些荣誉和奖项，例如：[Technical Rock Star](certificate/TRS_Annual.pdf)($13,000), [IBM Invention Plateau](certificate/Plateau.jpeg)($1,200), [Social Business Impact Award](certificate/SocialBusinessImpactAward.jpg)($1,000), [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号 (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))等
 
 ---
 
