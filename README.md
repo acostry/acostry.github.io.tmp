@@ -64,7 +64,7 @@
 
 # 专利和作品
 
-## 发明专利
+## 专利
 在 2016 年获得 [IBM Invention Plateau](certificate/Plateau.jpeg) 奖项
 
  - CN920150218US1 - LOCAL CONSUMPTION OF REMOTE SERVICES: 本专利是关于如何在本地开发时让应用程序可以直接使用部署在云端的各种服务。
