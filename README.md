@@ -52,6 +52,8 @@
 
 ### Cloud Availability Manager(AVM) / Emergency Response Manager(ERM) 
 
+从2017年3月至今，我做为 AVM(刚开始叫ERM) 主要职责是维护和保证 IBM 云平台的稳定性和可用性。当云平台上出现重大影响客户的事故(Customer Impacting Events)时，
+
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
 
@@ -135,7 +137,7 @@
 # 其他
 
   - 为 IBM 公有云平台 Bluemix 骇客马拉松拍摄宣传短片: [Bluemix 短跑节——开发者锦标赛：够胆你就来](https://v.qq.com/x/page/u01531ihc0l.html)
-  - 为 IBM Bluemix 宣传短片的脚本进行审查和更正: 1 - [IBM Bluemix 快到让你没有时间享受工作](http://v.youku.com/v_show/id_XOTIwMzAzMzI4.html),  2 - [IBM Bluemix 做你最想做的程序](http://v.youku.com/v_show/id_XOTIwMzE2NDA4.html), 3 - [IBM Bluemix 帮你整合全球资源尽在“不言中”](http://v.youku.com/v_show/id_XOTIwMzE3MTAw.html)
+  - 为 IBM Bluemix 市场推广短片的脚本进行审查和更正: 1 - [IBM Bluemix 快到让你没有时间享受工作](http://v.youku.com/v_show/id_XOTIwMzAzMzI4.html),  2 - [IBM Bluemix 做你最想做的程序](http://v.youku.com/v_show/id_XOTIwMzE2NDA4.html), 3 - [IBM Bluemix 帮你整合全球资源尽在“不言中”](http://v.youku.com/v_show/id_XOTIwMzE3MTAw.html)
 
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
