@@ -56,6 +56,10 @@
 
 工作内容主要涉及的相关技术，产品和工具包括(但不限于)：J2EE, WAS, WAS Liberty, Java, OSGi, Eclipse, Tomcat等。
 
+### 荣誉和奖项
+
+在 IBM 工作的8+年，获得过一些公司成面的荣誉和奖项，例如：[Technical Rock Star](certificate/TRS_Annual.pdf)($13,000), [IBM Invention Plateau](certificate/Plateau.jpeg)($1,200), [Social Business Impact Award](certificate/SocialBusinessImpactAward.jpg)($1,000), [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号 (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))等
+
 ---
 
 # 专利和作品
