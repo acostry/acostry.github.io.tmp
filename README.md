@@ -1,7 +1,7 @@
 # 联系方式
 
 - 手机：13581649539
-- Email：[zhuxiulei@gmail.com](zhuxiulei@gmail.com)
+- Email：<zhuxiulei@gmail.com>
 - 微信号：[acostry](certificate/acostryweichat.jpeg)
 
 ---
