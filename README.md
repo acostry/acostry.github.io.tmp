@@ -12,7 +12,7 @@
  - 硕士研究生/北京理工大学计算机科学与技术学院 
  - 工作年限：8+年
  - 工作地点：北京
- - 个人微信公众号：[LearningBluemix](certificate/learningbluemix.jpg) (微信号：IBMBluemix, 介绍：关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术。当前订阅用户数：1000+) 
+ - 个人微信公众号：[LearningBluemix](certificate/learningbluemix.jpg)
  - 技术博客：1 - [CSDN Blog](http://blog.csdn.net/acostry),   2 - [developWorks Blog](https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
  - Github: [acostry](https://github.com/acostry)
 
@@ -96,8 +96,8 @@
 
 ## 演讲和讲义
 
-  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/)    [录像回放](http://v.youku.com/v_show/id_XMzM1ODU4OTE3Mg==.html?spm=a2h3j.8428770.3416059.1)(从 00:59:00 开始)    [讲义](resources/PyconHK2016-Bluemix.pdf)
-  - 视频：[IBM Bluemix - Why? What? AND How? (Chinese-中文版)](https://v.qq.com/x/page/p0193fp5d1z.html)
+  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/)    [录像回放](http://v.youku.com/v_show/id_XMzM1ODU4OTE3Mg==.html?spm=a2h3j.8428770.3416059.1)(从 00:59:00 开始-英文版)    [讲义](resources/PyconHK2016-Bluemix.pdf)
+  - 视频：[IBM Bluemix - Why? What? AND How? (中文版)](https://v.qq.com/x/page/p0193fp5d1z.html)
   - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution](resources/TAW-1822%20TeamSun%20Liberty%20V3.pdf) 
   - 公司内部及外部客户分享：1 - [IBM Bluemix Workshop](resources/IBM_Bluemix_WorkShop_V2.pdf),   2 - [WebSphere Application Server Liberty Profile](resources/WASV85_Jam_Liberty_Overview.pdf),   3 - [Modular & Dynamic OSGi Applications in WebSphere Application Server](resources/WASV8_Jam_OSGi.pdf)
   - 2012 年广发银行 WebSphere Workshop(负责翻译): [Introducing IBM WebSphere Application Server v8.5 - The Future Is Now](resources/AI%20Workshop%20CGB%20China%20Aug%202012%20client.pdf)
