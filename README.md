@@ -100,7 +100,7 @@
   - 视频：[IBM Bluemix - Why? What? AND How? (中文版)](https://v.qq.com/x/page/p0193fp5d1z.html)
   - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution](resources/TAW-1822%20TeamSun%20Liberty%20V3.pdf) 
   - 公司内部及外部客户分享：1 - [IBM Bluemix Workshop](resources/IBM_Bluemix_WorkShop_V2.pdf),   2 - [WebSphere Application Server Liberty Profile](resources/WASV85_Jam_Liberty_Overview.pdf),   3 - [Modular & Dynamic OSGi Applications in WebSphere Application Server](resources/WASV8_Jam_OSGi.pdf)
-  - 2012 年广发银行 WebSphere Workshop(负责翻译): [Introducing IBM WebSphere Application Server v8.5 - The Future Is Now](resources/AI%20Workshop%20CGB%20China%20Aug%202012%20client.pdf)
+  - 2012 年广发银行 WebSphere Workshop(现场翻译): [Introducing IBM WebSphere Application Server v8.5 - The Future Is Now](resources/AI%20Workshop%20CGB%20China%20Aug%202012%20client.pdf)
   - 2011 年北京理工大学共建系(软件学院): [我眼中的 IBM](resources/我眼里的IBM_XiuLei.pdf) 
   - 2010 年大连理工大学软件学院 授课 [IBM WebSphere Application Server On Windows V7管理培训(WA370)](http://www.avtechcn.com/course/was370/)
 
