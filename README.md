@@ -128,5 +128,5 @@
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。  
-(如果您正在查看的是纸质版简历，请访问 [https://acostry.github.io](https://acostry.github.io/) 获取更多超链接及图文内容。)
+(如果您正在查看的是纸质或者PDF版简历，请访问 [https://acostry.github.io](https://acostry.github.io/) 获取更多超链接及图文内容。)
 
