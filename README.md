@@ -3,7 +3,8 @@
 - 手机：13581649539
 - Email：<zhuxiulei@gmail.com>
 - 微信号：[acostry](certificate/acostryweichat.jpeg)  
-(如果您正在查看的是纸质或电子版简历，请访问 [https://acostry.github.io](https://acostry.github.io/) 浏览在线版本并获取更多超链接及图文内容。)
+(如果您正在查看的是纸质或电子版简历，请访问 [https://acostry.github.io](https://acostry.github.io/) 浏览在线版本以获取更多超链接及图文内容。)  
+
 ---
 
 # 个人信息
