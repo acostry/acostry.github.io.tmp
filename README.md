@@ -115,9 +115,6 @@
 ## LearningBluemix 微信公众号
 [LearningBluemix](certificate/learningbluemix.jpg) (微信号：IBMBluemix)是我的个人微信公众号，主要关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术，当前订阅用户数：1000+。该公众号大部分为原创文章，内容涉及 IBM 云平台，Cloud Foundry, Kubernetes 以及 Docker等云技术，旨在推广相关云产品和云技术在企业级领域的应用。
 
-## Icap 中文社区
-做为管理员以及主要的内容提供者，运营[Icap 中文社区](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=84a69364-28a8-4f9e-ab63-4b22a408082b)。Icap 是 IBM Public Cloud(Bluemix) 的前身，是一个更加简便、快速的开发和管理云应用的平台，集合了 Mobile、WebSphere 以及 Cloud 的优势，将面向云的应用开发带入了一个新纪元！
-
 ---
 
 # 其他
