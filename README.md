@@ -25,7 +25,7 @@
 
 ### Cloud Availability Manager(AVM) / Emergency Response Manager(ERM) 
 
-2020年1月至今：Senior Cloud Availability Manager, Lead, Band 9
+2020年1月至今：Senior Cloud Availability Manager, Lead, Band 9  
 2017年3月到2019年12月：Cloud Availability Manager, Lead, Band 8
 
 2017年3月至今，做为 AVM 主要职责是维护和保证 IBM 云平台(公有云/专有云/私有云)的稳定性和可用性。当云平台上出现重大的影响客户的事件(CIE-Customer Impacting Events)时，第一时间确认并响应事件，协调资源，并领导各个相关团队快速解决问题，减少平均修复时间(MTTR-Mean Time to Repair)，并完成和追踪事件的根本原因分析(RCA-Root Cause Analysis)。
