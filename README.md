@@ -23,18 +23,16 @@
 
 ## IBM CDL - 中国开发实验室（ 2009年9月 ~ 至今 ）
 
-### Senior Cloud Availability Manager(AVM)
-
-2019年12月至今
-
 ### Cloud Availability Manager(AVM) / Emergency Response Manager(ERM) 
 
-2020年1月至今：Senior Cloud Availability Manager
-2017年3月到2019年12月：Cloud Availability Manager
+2020年1月至今：Senior Cloud Availability Manager, Lead, Band 9
+2017年3月到2019年12月：Cloud Availability Manager, Lead, Band 8
 
 2017年3月至今，做为 AVM 主要职责是维护和保证 IBM 云平台(公有云/专有云/私有云)的稳定性和可用性。当云平台上出现重大的影响客户的事件(CIE-Customer Impacting Events)时，第一时间确认并响应事件，协调资源，并领导各个相关团队快速解决问题，减少平均修复时间(MTTR-Mean Time to Repair)，并完成和追踪事件的根本原因分析(RCA-Root Cause Analysis)。
 
 日常工作主要包括：在出现 CIE 之前，进行常规的警报监控，积极响应并处理来自各个相关团队的求助，尽可能在第一时间发现潜在的 CIE，并指导团队迅速处理；在 CIE 发生的时候，提供协助给运维及相关服务团队，负责对外发布用户公告以及对内的事件定期汇报，在必要的时候，与客户进行沟通，最大程度的去满足客户和快速响应来自各方面的请求；在 CIE 之后，一方面进行事件的根本原因分析，另一方面负责与受影响的服务团队进行对接，制定预防计划，防止相同事件再次发生。在 CIE 和 RCA 之外，我的主要时间用来进行团队内部的技术分享和学习，比如：创建并更新维护 AVM/ERM 运行手册(Runbook)，分享相关领域内技术，并不断深入学习云计算相关领域技术和产品。
+
+除上以外，同时负债 AVM 自动化工具的开发和运维：1. AVM Online Service: 一个 Web Site，用来向 Cloud Services 团队提供 AVM 服务和互动的网站。2. AVM Bot: 一个用 Node.js 开发的 Slack Bot, 运行在 IBM Cloud 之上，主要用来帮助 AVM 和 Services 团队进行 Service Management，其后台连接多个 IT 系统（ServiceNow， PagerDuty 以及其他内部系统），以 Slack 作为 UI 交互，来完成与 CIE/Incident Management, Change, On-call/Pagerduty, Status/Notification 等相关的工作内容。3. Notification Generator：一个 Web 平台，以 Webhook 的形式与 Slack 集成，可以帮助 AVM 快速拟写紧急事件发生时的外部通告，并提供与 Slack 集成的快速审批功能。
 
 在这个项目中，最困难的问题是如何高效的协调不同的团队来解决事件和进行事后的根本原因分析，我主要采用以下两个措施来应对：1. 提高自身领域内的技术能力，在事件发生时，提供切实有效的解决方案和关键建议。2. 不断提高软技能，提升自身领导力，在事件发生的紧急时刻，依然能够冷静的指导团队解决问题，在进行根本原因分析时，灵活采用各种有效的沟通方式，与相关团队一起制定切实有效的预防计划。通过持续的践行这两个措施，个人不但在技术上日益提高，而且还和各个服务团队建立起了良好的沟通渠道，这些都成为了高效完成工作的保障。
 
@@ -67,7 +65,10 @@
 
 ### 荣誉和奖项
 
-在 IBM 工作的8+年，获得过一些荣誉和奖项，例如：[Technical Rock Star](certificate/TRS_Annual.pdf)($13,000), [IBM Invention Plateau](certificate/Plateau.jpeg)($1,200), [Social Business Impact Award](certificate/SocialBusinessImpactAward.jpg)($1,000), [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号 (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))等
+在 IBM 工作期间，获得过一些荣誉和奖项，例如：[Technical Rock Star](certificate/TRS_Annual.pdf)($13,000), [IBM Invention Plateau](certificate/Plateau.jpeg)($1,200), [Social Business Impact Award](certificate/SocialBusinessImpactAward.jpg)($1,000), Solutions Excellence Award ($250), [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号 (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))等
+
+### 认证
+ITIL® Foundation Certificate in IT Service Management  2019-05-19
 
 ---
 
