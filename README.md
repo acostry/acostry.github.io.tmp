@@ -36,7 +36,7 @@
 
 在这个项目中，最困难的问题是如何高效的协调不同的团队来解决事件和进行事后的根本原因分析，我主要采用以下两个措施来应对：1. 提高自身领域内的技术能力，在事件发生时，提供切实有效的解决方案和关键建议。2. 不断提高软技能，提升自身领导力，在事件发生的紧急时刻，依然能够冷静的指导团队解决问题，在进行根本原因分析时，灵活采用各种有效的沟通方式，与相关团队一起制定切实有效的预防计划。通过持续的践行这两个措施，个人不但在技术上日益提高，而且还和各个服务团队建立起了良好的沟通渠道，这些都成为了高效完成工作的保障。
 
-工作内容主要涉及的相关技术，产品和工具包括(但不限于)：IBM Cloud(Bluemix), IBM Container Service, Cloud Foundry, Docker, Kubernetes, Linux Shell, IBM Cloud Private, Go, Node.js, Grafana, Pagerduty, ServiceNow, Slack等。
+工作内容主要涉及的相关技术，产品和工具包括(但不限于)：IBM Cloud(Bluemix), IBM Container Service, Cloud Foundry, Docker, Kubernetes, Linux Shell, IBM Cloud Private, Node.js, Grafana, Pagerduty, ServiceNow, Slack等。
 
 ### 布道云平台/云技术
 
