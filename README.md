@@ -24,6 +24,10 @@
 
 ## IBM CDL - 中国开发实验室（ 2009年9月 ~ 至今 ）
 
+### Open Source
+
+Edge computing -- Open-horizon
+
 ### Cloud Availability Manager(AVM) / Emergency Response Manager(ERM) 
 
 2020年1月至今：Senior Cloud Availability Manager, Lead
