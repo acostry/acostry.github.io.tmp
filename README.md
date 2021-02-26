@@ -1,23 +1,13 @@
-# 联系方式
-
-- 手机：13581649539
-- Email：<zhuxiulei@gmail.com>
-- 微信号：[acostry](certificate/acostryweichat.jpeg)  
-(请访问 [https://acostry.github.io](https://acostry.github.io/) 浏览在线版本以获取更多超链接及图文内容。)  
-
----
-
-# 个人信息
+# 基本信息
 
  - 朱修磊/男/1985 
+ - 联系方式：13581649539,  <zhuxiulei@gmail.com>  
  - 硕士研究生/北京理工大学/计算机科学与技术/2008-2010
  - 本科/安徽理工大学/计算机科学与技术/2004-2008
- - 工作年限：10年 (截止到2020-07)
- - 工作地点：北京
- - 个人微信公众号：[LearningBluemix](certificate/learningbluemix.jpg)
- - 技术博客：1 - [CSDN Blog](http://blog.csdn.net/acostry),   2 - [developWorks Blog](https://www.ibm.com/developerworks/community/blogs/acostry/?lang=en)
- - Github: [acostry](https://github.com/acostry)
-
+ - 工作年限：(2010 ~ 至今)  
+ - 工作地点：北京  
+ - Github: [acostry](https://github.com/xiuleiyy)  
+ - 技术博客：1 - [CSDN Blog](http://blog.csdn.net/acostry)   
 ---
 
 # 工作经历
