@@ -4,24 +4,20 @@
  - 联系方式：13581649539,  <zhuxiulei@gmail.com>  
  - 硕士研究生/北京理工大学/计算机科学与技术/2008-2010
  - 本科/安徽理工大学/计算机科学与技术/2004-2008
- - 工作年限：(2010 ~ 至今)  
+ - 工作年限：11年 (截止到2021)  
  - 工作地点：北京  
- - Github: [acostry](https://github.com/xiuleiyy)  
- - 技术博客：1 - [CSDN Blog](http://blog.csdn.net/acostry)   
+ - Github：[https://github.com/xiuleiyy](https://github.com/xiuleiyy)  
+ - 技术博客：[https://blog.csdn.net/acostry](http://blog.csdn.net/acostry)   
 ---
 
 # 工作经历
 
 ## IBM CDL - 中国开发实验室（ 2009年9月 ~ 至今 ）
 
-### Open Source
-
-Edge computing -- Open-horizon
-
 ### Cloud Availability Manager(AVM) / Emergency Response Manager(ERM) 
 
-2020年1月至今：Senior Cloud Availability Manager, Lead
-2017年3月到2019年12月：Cloud Availability Manager, Lead
+2019年12月至今：Senior Cloud Availability Manager (Sr. AVM), AP Leader  
+2017年3月到2019年11月：Cloud Availability Manager (AVM), AP Leader  
 
 2017年3月至今，做为 AVM 主要职责是维护和保证 IBM 云平台(公有云/专有云/私有云)的稳定性和可用性。当云平台上出现重大的影响客户的事件(CIE-Customer Impacting Events)时，第一时间确认并响应事件，协调资源，并领导各个相关团队快速解决问题，减少平均修复时间(MTTR-Mean Time to Repair)，并完成和追踪事件的根本原因分析(RCA-Root Cause Analysis)。
 
