@@ -42,7 +42,7 @@ As Automation Tooling leader, responsible for developing and operating the tooli
 
 ### Open Source Contributor, Open Horizon (2020/07 ~ until now)
 
-2020/07 until now, As the main contributor of Open Horizon project, built the Website for this open source project. Also, lead the local effort to build (compose, translate) Chinese version documents for China users.  
+2020/07 until now, As the main [contributor](https://github.com/open-horizon/open-horizon.github.io/graphs/contributors) of [Open Horizon](https://github.com/open-horizon) project, built the [Website](https://open-horizon.github.io/) for this open source project. Also, lead the local effort to build (compose, translate) Chinese version documents for China users.  
 
 ### Evangelist, IBM Cloud (2013/01 – 2017/02)
 
