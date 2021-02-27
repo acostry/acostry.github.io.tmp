@@ -29,8 +29,8 @@
 
 ### Cloud Availability Manager/Emergency Response Manager, IBM Cloud
 
-2019/12 until now, Senior Cloud Availability Manager (Sr. AVM), AP Leader 
-2017/03 - 2019/11, Cloud Availability Manager (AVM), AP Leader
+2019/12 until now, Senior Cloud Availability Manager (Sr. AVM), AP Leader    
+2017/03 - 2019/11, Cloud Availability Manager (AVM), AP Leader   
 
 As AVM, responsible for working to optimize the stability and availability of IBM Cloud infrastructure, systems, and services to meet the commitments IBM has made to its clients in a cost-effective manner. Execute on an enhanced recovery model for resolution of Major Customer Impacting Events.  Manage and coordinate Incident Management driving to Service resolution.  Provide clear communication to senior executives and external customers on the status of the recovery process.   Coordinate across multiple teams on the recovery effort.  Facilitate bridging the gaps between teams and drive rapid recovery during incidents.  Escalate where necessary to get the appropriate subject matter experts needed for the recovery effort.  Document the recovery process noting areas of improvement.   Train, coach, and review proper Problem Management with the problem owners.  Identify areas of improvement for problem owners to include to target problem resolution and identify additional areas to the overall time to resolution.  Utilize tooling and technical knowledge to assure services and components are designed and delivered to meet their availability targets. Provide a holistic view of the clouds environment and make recommendations to improve overall service. Focus on individual/team objectives and development of professional effectiveness.  As Sr. AVM, will lead strategic areas of importance to the service team.
 
