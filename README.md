@@ -25,8 +25,8 @@
 
 做为自动化工具的开发 Leader，负责这些工具的日常开发和运维，包括：
  - AVM Online Service：一个在线的服务网站，用来为所有 IBM 云服务团队提供 AVM 的服务信息（例如：事件管理、问题管理以及相关事件的报表分析等等）。
- - Slack Bots：用来优化 IT 服务管理的自动化工具，使用 Node.js 构建并运行在 Kubernetes 平台上。这些 Bots 可以用来帮助相关团队进行事件管理/问题管理/升级管理，通过与多个后台 IT 系统（ServiceNow/Pagerduty/Other Internal Systems ...）集成来实实现 IT 服务管理流程中的自动化。
- - Notification Generator：一个用来帮助 AVM 团队自动生成外部客户通告的在线工具。
+ - Slack Bots：用来优化 IT 服务管理的自动化工具，使用 Node.js 构建并运行在 Kubernetes 平台上。这些 Bots 可以用来帮助相关团队进行事件管理/问题管理/升级管理，通过与多个后台 IT 系统（ServiceNow/Pagerduty/Other Internal Systems ...）集成来实现 IT 服务管理流程中的自动化。
+ - Notification Generator：一个用来帮助 AVM 团队自动生成外部客户通告的在线工具，使用 Spring Boot 框架构建。
  
 ### 开源项目贡献者 - Open Horizon (2020年7月 ~ 至今)
 
