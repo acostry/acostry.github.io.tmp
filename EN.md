@@ -100,6 +100,5 @@ and dozens of speech/sharing in China for local customers.
  - ITIL® Foundation Certificate in IT Service Management 2019-05-19
  - [IBM Cloud Certified on different areas](https://www.youracclaim.com/users/acostry/badges)
 
----
 
 
