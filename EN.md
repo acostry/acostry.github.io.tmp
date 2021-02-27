@@ -38,7 +38,7 @@ As AVM, responsible for working to optimize the stability and availability of IB
 As Automation Tooling leader, responsible for developing and operating the tooling assets which include:
  - AVM Online Service which is an online web site to provide AVM services information to all IBM Cloud services team.
  - Slack Bots for IT Service Management, build with Node.js and running in IBM Cloud Kubernetes Service. It can help team with Incident, Problem, Change, On-call/PagerDuty/Escalation, Services, Status/Notification and other related matters.
- - Notification Generator which is a web site integrate with Slack webhook to help AVM auto-generate external customer notification.
+ - Notification Generator which is a web site build with Spring Boot and integrate with Slack webhook to help AVM auto-generate external customer notification.
 
 ### Open Source Contributor, Open Horizon (2020/07 ~ until now)
 
