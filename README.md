@@ -7,7 +7,8 @@
  - 工作年限：11年 (截止到2021)  
  - 工作地点：北京  
  - Github：[https://github.com/xiuleiyy](https://github.com/xiuleiyy)  
- - 技术博客：[https://blog.csdn.net/acostry](http://blog.csdn.net/acostry)   
+ - 技术博客：[https://blog.csdn.net/acostry](http://blog.csdn.net/acostry) 
+ - 英文简历：[]()  
 ---
 
 # 工作经历
@@ -17,66 +18,62 @@
 ### Cloud Availability Manager(AVM) / Emergency Response Manager(ERM) 
 
 2019年12月至今：Senior Cloud Availability Manager (Sr. AVM),  AP Leader  
-2017年3月到2019年11月：Cloud Availability Manager (AVM),  AP Leader  
+2017年3月到2019年11月：Cloud Availability Manager (AVM),  AP Leader
 
-As AVM, responsible for working to optimize the stability and availability of IBM Cloud infrastructure, systems, and services to meet the commitments IBM has made to its clients in a cost-effective manner. Execute on an enhanced recovery model for resolution of Major Customer Impacting Events.  Manage and coordinate Incident Management driving to Service resolution.  Provide clear communication to senior executives and external customers on the status of the recovery process.   Coordinate across multiple teams on the recovery effort.  Facilitate bridging the gaps between teams and drive rapid recovery during incidents.  Escalate where necessary to get the appropriate subject matter experts needed for the recovery effort.  Document the recovery process noting areas of improvement.   Train, coach, and review proper Problem Management with the problem owners.  Identify areas of improvement for problem owners to include to target problem resolution and identify additional areas to the overall time to resolution.  Utilize tooling and technical knowledge to assure services and components are designed and delivered to meet their availability targets. Provide a holistic view of the clouds environment and make recommendations to improve overall service. Focus on individual/team objectives and development of professional effectiveness.  As Sr. AVM, will lead strategic areas of importance to the service team.
+做为 AVM，主要职责是促进和优化 IBM 云基础设施、系统和服务的稳定性和可用性，具体内容包括：通过执行不断优化的事件恢复流程，来解决云平台上出现的重大的影响客户的事件（CIE-Customer Impacting Events）；管理和协调事件恢复流程以驱动云平台上的故障恢复；向高层管理人员和外部客户提供清晰完整的事件恢复过程与状态更新；协调多个团队的资源来进行故障恢复，促进弥合团队之间的合作，并推动事故期间的快速恢复；在必要时逐步升级事件级别，以获取恢复故障所需要的更多资源和专家；记录故障的恢复过程以及其中需要改进的地方；与问题负责人一起完成和追踪事件的根本原因分析(RCA-Root Cause Analysis)；识别并确定问题负责人需要改进的领域；利用工具和技术知识确保云服务的设计和交付达到其可用性目标；提供云环境的整体运行状况，并提出改进云服务的建议；专注于个人/团队的目标和专业效率的提升。
 
-作为AVM，负责优化IBM云基础设施、系统和服务的稳定性和可用性，以满足IBM以低成本的方式对其客户做出的承诺。执行增强的恢复模型，以解决主要客户影响事件。管理和协调事故管理驱动服务解决方案。向高层管理人员和外部客户提供关于恢复过程状态的清晰沟通。协调多个团队的恢复工作。促进弥合团队之间的差距，并推动事故期间的快速恢复。在必要时逐步升级，以获得恢复工作所需的适当主题专家。记录恢复过程中需要改进的地方。与问题负责人一起培训、指导和回顾问题管理。确定问题所有者需要改进的领域，包括针对问题解决的目标，并确定总体解决时间的额外领域。利用工具和技术知识确保服务和组件的设计和交付达到其可用性目标。提供云环境的整体视图，并提出改进整体服务的建议。专注于个人/团队的目标和专业效率的发展。作为高级AVM，领导服务团队的重要战略领域。
+做为自动化工具的开发 Leader，负责这些工具的日常开发和运维，包括：
+ - AVM Online Service：一个在线的服务网站，用来为所有 IBM 云服务团队提供 AVM 的服务信息（例如：事件管理、问题管理以及相关事件的报表分析等等）。
+ - Slack Bots：用来优化 IT 服务管理的自动化工具，使用 Node.js 构建并运行在 Kubernetes 平台上。这些 Bots 可以用来帮助相关团队进行事件管理/问题管理/升级管理，通过与多个后台 IT 系统（ServiceNow/Pagerduty/Other Internal Systems ...）集成来实实现 IT 服务管理流程中的自动化。
+ - Notification Generator：一个用来帮助 AVM 团队自动生成外部客户通告的在线工具。
+ 
+### 开源项目贡献者 - Open Horizon (2020年7月 ~ 至今)
 
-2017年3月至今，做为 AVM 主要职责是维护和保证 IBM 云平台(公有云/专有云/私有云)的稳定性和可用性。当云平台上出现重大的影响客户的事件(CIE-Customer Impacting Events)时，第一时间确认并响应事件，协调资源，并领导各个相关团队快速解决问题，减少平均修复时间(MTTR-Mean Time to Repair)，并完成和追踪事件的根本原因分析(RCA-Root Cause Analysis)。
+做为开源项目 [Open Horizon](https://github.com/open-horizon) 的主要[贡献者](https://github.com/open-horizon/open-horizon.github.io/graphs/contributors)，为这个开源项目初始构建了[网站](https://open-horizon.github.io/)，并进行持续的改进与优化。同时，领导并负责为中国用户构建(撰写、翻译)中文文档的工作。
 
-日常工作主要包括：在出现 CIE 之前，进行常规的警报监控，积极响应并处理来自各个相关团队的求助，尽可能在第一时间发现潜在的 CIE，并指导团队迅速处理；在 CIE 发生的时候，提供协助给运维及相关服务团队，负责对外发布用户公告以及对内的事件定期汇报，在必要的时候，与客户进行沟通，最大程度的去满足客户和快速响应来自各方面的请求；在 CIE 之后，一方面进行事件的根本原因分析，另一方面负责与受影响的服务团队进行对接，制定预防计划，防止相同事件再次发生。在 CIE 和 RCA 之外，我的主要时间用来进行团队内部的技术分享和学习，比如：创建并更新维护 AVM/ERM 运行手册(Runbook)，分享相关领域内技术，并不断深入学习云计算相关领域技术和产品。
+### 布道云平台/云技术（2013年初 ~ 2017年2月）
 
-除上以外，同时负债 AVM 自动化工具的开发和运维：1. AVM Online Service: 一个 Web Site，用来向 Cloud Services 团队提供 AVM 服务和互动的网站。2. AVM Bot: 一个用 Node.js 开发的 Slack Bot, 运行在 IBM Cloud 之上，主要用来帮助 AVM 和 Services 团队进行 Service Management，其后台连接多个 IT 系统（ServiceNow， PagerDuty 以及其他内部系统），以 Slack 作为 UI 交互，来完成与 CIE/Incident Management, Change, On-call/Pagerduty, Status/Notification 等相关的工作内容。3. Notification Generator：一个 Web 平台，以 Webhook 的形式与 Slack 集成，可以帮助 AVM 快速拟写紧急事件发生时的外部通告，并提供与 Slack 集成的快速审批功能。
+2013年初到2017年2月，一直都在从事 IBM 云平台和云技术的布道和推广工作，旨在国内传播云技术以及构建云相关生态系统。首先，通过直接面对国内的云开发者，了解第一手的需求和国内的云技术发展现状，并将这些信息反馈给公司内部产品部门，基于此可以更好的指导和开发适合国内企业和个人的云产品和解决方案。其次，传播云技术的过程，也是个人不断学习新技术和提高业务能力的过程，不仅掌握了云技术，同时也了解了云技术在实际企业中的应用。
 
-在这个项目中，最困难的问题是如何高效的协调不同的团队来解决事件和进行事后的根本原因分析，我主要采用以下两个措施来应对：1. 提高自身领域内的技术能力，在事件发生时，提供切实有效的解决方案和关键建议。2. 不断提高软技能，提升自身领导力，在事件发生的紧急时刻，依然能够冷静的指导团队解决问题，在进行根本原因分析时，灵活采用各种有效的沟通方式，与相关团队一起制定切实有效的预防计划。通过持续的践行这两个措施，个人不但在技术上日益提高，而且还和各个服务团队建立起了良好的沟通渠道，这些都成为了高效完成工作的保障。
+在布道中，主要通过如下几种方式：1. 在技术网站/博客/社交媒体等发表文章(例如：[文章列表](#技术文章)，[微信公众号](#learningbluemix-微信公众号)，[博客](#基本信息)等)。2. 参加公司内外部举行的技术峰会，进行交流和学习(例如：[演讲和讲义](#演讲和讲义)，PyConHK2016-主题演讲，第七届中国云计算大会-Bluemix Lab，2013 Qcon 北京峰会-Bluemix Lab, 每年度 IBM 大中华区技术峰会-Bluemix Workshop等)。3.为多家公司和企业介绍 IBM 云产品和云技术(例如：CCTV/清源云顶/KaiKeBa/21v/Taiji Smart-T等) 4. 举办并参加线上/线下的技术交流，骇客马拉松以及开发者见面会(例如：[IBM Bluemix开发者锦标赛评委](http://2015bmix.csdn.net/)，IBM 大中华区 Bluemix 冠军编程大赛，北京大学骇客马拉松，武汉大学-Bluemix校园行，Bluemix 开发者吐槽会等)。
 
-工作内容主要涉及的相关技术，产品和工具包括(但不限于)：IBM Cloud(Bluemix), IBM Container Service, Cloud Foundry, Docker, Kubernetes, Linux Shell, IBM Cloud Private, Node.js, Grafana, Pagerduty, ServiceNow, Slack等。
+### 云平台自动化测试（2013年1月 ~ 2017年2月）
 
-### 布道云平台/云技术
+2013年1月到2017年2月，主要的工作职责是 IBM 云平台(公有云/专有云/私有云)的质量保证。工作的形式主要是测试开发，完善并自动化测试用例，构建整套的自动化测试流程，并搭建适用于整个云平台的 Pipeline(开发环境 --> 测试环境 --> 生产环境)，确保所有的组件和服务在部署到生产系统之前经过严格的测试和检验，整个过程全部自动化，以满足云计算时代的更新上线频率，尽可能的减少人为失误。
 
-2013年初到2017年2月，一直都在从事 IBM 云平台和云技术的布道和推广工作，旨在国内传播云技术以及构建云相关生态系统。这些工作虽然繁琐，但是却很有价值：首先，可以直接面对国内的云开发者，了解第一手的需求和国内的云技术发展现状，并将这些信息反馈给公司内部产品部门，基于此可以更好的指导和开发适合国内企业和个人的云产品和解决方案。其次，传播云技术的过程，也是个人不断学习新技术和提高业务能力的过程，不仅掌握了云技术，同时也了解了云技术在实际企业中的应用。
+日常工作主要包括：自动化测试用例的设计与开发(Java/Junit/Maven/Jmeter)，内容涉及10+个云平台组件和服务的验收测试(AT)和系统集成测试(SIT); 搭建自动化测试框架(Jenkins/RTC/Docker)，每天定时执行所有的自动化测试用例，并将测试结果发送给用例的所有者，如有必要，进行问题诊断；为了构建云平台的 Pipeline, 基于已有的测试用例，搭建并持续运维全新的自动化测试框架(Jenkins/Git/Docker+Docker Registry/IBM UrbanCode Deploy/Shell)，每当发现有新的版本的组件和服务时，自动或定时的触发自动化测试流程，按照预定的顺序在不同的环境执行相关测试用例，如果测试全部通过，则将该组件和服务标位生产可用(Production Ready), 相反，则通知开发团队进行bug修复；日常的工作内容还包括对测试云环境的运维和问题修复，保证其可用性和稳定性；在中后期，做为项目lead，带领团队不断优化测试用例，并持续改进自动化测试框架，和国外团队一起，高效完成云平台质量保证的工作。
 
-布道云平台/云技术，主要通过如下几种方式：1. 在技术网站/博客/社交媒体等发表文章(例如：[文章列表](#技术文章)，[微信公众号](#learningbluemix-微信公众号)，[博客](#个人信息)等)。2. 参加公司内外部举行的技术峰会，进行交流和学习(例如：[演讲和讲义](#演讲和讲义)，PyConHK2016-主题演讲，第七届中国云计算大会-Bluemix Lab，2013 Qcon 北京峰会-Bluemix Lab, 每年度 IBM 大中华区技术峰会-Bluemix Workshop等)。3.为多家公司和企业介绍 IBM 云产品和云技术(例如：CCTV/清源云顶/KaiKeBa/21v/Taiji Smart-T等) 4. 举办并参加线上/线下的技术交流，骇客马拉松以及开发者见面会(例如：[IBM Bluemix开发者锦标赛评委](http://2015bmix.csdn.net/)，IBM 大中华区 Bluemix 冠军编程大赛，北京大学骇客马拉松，武汉大学-Bluemix校园行，Bluemix 开发者吐槽会等)。
-(因篇幅限制，以上举例仅是部分。)
+在这个项目中，最困难的部分就是从传统的软件测试向云平台自动化测试的转变，很多传统的方法都不再适用于现代云平台的自动化测试。通过拥抱新的技术，工具和开源框架，践行DevOps方法论，将持续集成(CI)和持续交付(CD)用在自动化的测试和开发中，构建更优化的测试用例和全新的测试框架。借鉴业内领先的测试方法和理论，将精华部分引入到自己的测试过程中，提高测试工作的效率，优化测试流程。
 
-工作内容主要涉及的相关技术，产品和工具包括(但不限于)：IBM Cloud(Bluemix), PaaS, 容器, Java, Node.js, DB2, Mongo, Github, IBM Container Service, Cloud Foundry等。
+### WebShpere 系统测试 （2009年9月 ~ 2012年12月）
 
-### 云平台自动化测试
+2009年9月到2012年12月，主要的工作职责是 Websphere Application Server(WAS) 系列中间件产品的质量保证(主要包括系统集成测试和系统验证性测试)。团队主要负责从终端用户的角度出发，开发端到端的测试用例并执行，同时也为国内 WAS 中间件客户提供线下支持。
 
-2013年初到2017年初，主要的工作职责是 IBM 云平台(公有云/专有云/私有云)的质量保证。工作的形式主要是测试开发，完善并自动化测试用例，构建整套的自动化测试流程，并搭建适用于整个云平台的 Pipeline(开发环境 --> 测试环境 --> 生产环境)，确保所有的组件和服务在部署到生产系统之前经过严格的测试和检验，整个过程全部自动化，以满足云计算时代的更新上线频率，尽可能的减少人为失误。
-
-日常工作主要包括：自动化测试用例的设计与开发(Java/Junit/Maven/Jmeter)，内容涉及10+个云平台组件和服务的验收测试(AT)和系统集成测试(SIT); 搭建自动化测试框架(Jenkins/RTC/Docker)，每天定时执行所有的自动化测试用例，并将测试结果发送给用例的所有者，如有必要，进行问题诊断；为了构建云平台的 Pipeline, 基于已有的测试用例，搭建并持续运维全新的自动化测试框架(Jenkins/Git/Docker+Docker Registry/IBM UrbanCode Deploy/Shell)，每当发现有新的版本的组件和服务时，自动或定时的触发自动化测试流程，按照预定的顺序在不同的环境执行相关测试用例，如果测试全部通过，则将该组件和服务标位生产可用(Production Ready), 相反，则通知开发团队进行bug修复；日常的工作内容还包括对测试云环境的运维和问题修复，保证其可用性和稳定性；在中后期，我做为项目lead，带领团队不断优化测试用例，并持续改进自动化测试框架，和国外团队一起，高效完成云平台质量保证的工作。
-
-在这个项目中，最困难的部分就是从传统的软件测试向云平台自动化测试的转变，很多传统的方法都不再适用于现代云平台的自动化测试。我的解决方法是：1. 拥抱新的技术，工具和开源框架，践行DevOps方法论，将持续集成(CI)和持续交付(CD)用在自动化的测试和开发中，构建更优化的测试用例和全新的测试框架。2. 借鉴业内领先的测试方法和理论，将精华部分引入到自己的测试过程中，提高测试工作的效率，优化测试流程。正是不断坚持这两种方法，使得团队可以圆满的完成云平台的自动化测试工作，在快速开发的迭代过程中，确保质量保证工作的高效性和可靠性。
-
-### WebShpere 系统测试
-
-2009年9月到2012年末，主要的工作职责是 Websphere Application Server(WAS) 系列中间件产品的质量保证(主要包括系统集成测试和系统验证性测试)。团队主要负责从终端用户的角度出发，开发端到端的测试用例并执行，同时也为国内 WAS 中间件客户提供线下支持。
-
-我的工作内容主要有：WAS V6/V7 版本在新版本系统操作系统上的验证性测试，WAS V7 OSGi/V8/V8.5 版本的系统测试，除了要执行测试用例外，还需要根据新功能开发新的测试用例；对国内 WAS 中间件客户进行客户支持(例如：华胜天成/广发银行/华为/中国电信/中国建设银行/中国工商银行/中国人民银行/用友等)
-
-工作内容主要涉及的相关技术，产品和工具包括(但不限于)：J2EE, WAS, WAS Liberty, Java, OSGi, Eclipse, Tomcat等。
+工作内容主要有：WAS V6/V7 版本在新版本系统操作系统上的验证性测试，WAS V7 OSGi/V8/V8.5 版本的系统测试，除了要执行测试用例外，还需要根据新功能开发新的测试用例；对国内 WAS 中间件客户进行客户支持(例如：华胜天成/广发银行/华为/中国电信/中国建设银行/中国工商银行/中国人民银行/用友等)
 
 ### 荣誉和奖项
 
-在 IBM 工作期间，获得过一些荣誉和奖项，例如：[Technical Rock Star](certificate/TRS_Annual.pdf)($13,000), [IBM Invention Plateau](certificate/Plateau.jpeg)($1,200), [Social Business Impact Award](certificate/SocialBusinessImpactAward.jpg)($1,000), Solutions Excellence Award ($250), [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号 (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))等
+ - [IBM Invention Plateau](certificate/Plateau.jpeg) ($1,200)
+ - [IBM Technical Rock Star for Cloud Platform](certificate/TRS_Annual.pdf) ($13,000)
+ - Solutions Excellence Award ($250)
+ - [Social Business Impact Award](certificate/SocialBusinessImpactAward.jpg) ($1,000)
+ - [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))
+ - Manager’s Choose Award (多个)
 
 ### 认证
 ITIL® Foundation Certificate in IT Service Management  2019-05-19
+[IBM Cloud Certified on different areas](https://www.youracclaim.com/users/acostry/badges)
 
 ---
 
 # 专利和作品
 
 ## 专利
-在 2016 年获得 [IBM Invention Plateau](certificate/Plateau.jpeg) 奖项
 
  - CN920150218US1 - LOCAL CONSUMPTION OF REMOTE SERVICES: 本专利是关于如何在本地开发时让应用程序可以直接使用部署在云端的各种服务。
  - CN920150241US1 - DEBUGGING CLOUD APPLICATIONS: 本专利提出了一种更轻量级，更简便的方法在本地远程调试运行在云端的应用程序。
 
-## 技术文章
-在 2015 年获得 [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) 称号 (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))  
+## 技术文章 
 
 - [使用 IBM Bluemix 开发和部署 Python 应用](https://www.ibm.com/developerworks/cn/cloud/library/cl-cn-bluemix-python-application/)
 - [如何使用 IBM Bluemix 开发下一代云应用](http://www.ibm.com/developerworks/cn/cloud/library/1512_zhuxl_bluemixapp/) 
