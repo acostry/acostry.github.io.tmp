@@ -17,11 +17,11 @@
  - Rich experience on Incident Management and Problem Management.
  - Great experience on IBM Cloud(Public/Dedicated/Local), IBM Cloud Private and middleware services: WebSphere Application Server/Liberty, etc. 
  - Familiar with Kubernetes, Cloud Foundry, Docker, Cloud Native and Microservices. 
- - Great experience on Jenkins, Maven, Jmeter, DevOps, CI/CD, Scripting.
- - Have system automation testing experience on creating test plan, developing test use cases and completing test documents.
- - Have software development experience on programming Node.js, Java, Shell, Python language. 
- - Have excellent communication, coordination, organization skills.
- - Strong leadership, self-motivated, quick learner and problem-solving ability.    
+ - Great experience on Jenkins, Maven, Jmeter, DevOps, CI/CD, Scripting.   
+ - Have system automation testing experience on creating test plan, developing test use cases and completing test documents.   
+ - Have software development experience on programming Node.js, Java, Shell, Python language.   
+ - Have excellent communication, coordination, organization skills.   
+ - Strong leadership, self-motivated, quick learner and problem-solving ability.     
 
 ---
 # Work Experience
