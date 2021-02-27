@@ -21,7 +21,8 @@
  - Have system automation testing experience on creating test plan, developing test use cases and completing test documents.
  - Have software development experience on programming Node.js, Java, Shell, Python language. 
  - Have excellent communication, coordination, organization skills.
- - Strong leadership, self-motivated, quick learner and problem-solving ability.
+ - Strong leadership, self-motivated, quick learner and problem-solving ability.    
+
 ---
 # Work Experience
 
