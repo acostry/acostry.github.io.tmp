@@ -39,19 +39,19 @@ As Automation Tooling leader, responsible for developing and operating the tooli
  - Slack Bots for IT Service Management, build with Node.js and running in IBM Cloud Kubernetes Service. It can help team with Incident, Problem, Change, On-call/PagerDuty/Escalation, Services, Status/Notification and other related matters.
  - Notification Generator which is a web site integrate with Slack webhook to help AVM auto-generate external customer notification.
 
-### Open Source Contributor, Open Horizon (Open Source Project)
+### Open Source Contributor, Open Horizon (2020/07 ~ until now)
 
 2020/07 until now, As the main contributor of Open Horizon project, built the Website for this open source project. Also, lead the local effort to build (compose, translate) Chinese version documents for China users.  
 
-### Evangelist, IBM Cloud
+### Evangelist, IBM Cloud (2013/01 – 2017/02)
 
 2013/01 – 2017/02, as evangelist of IBM Cloud, responsible for spreading IBM Cloud technologies/products and building ecosystem in China. Focus on making IBM Cloud platform popular within local developers. Delivering and organizing a series of IBM Cloud activities/sessions/speeches for external and internal clients, helping people learn/adopt IBM Cloud platform as well as resolve their problems with IBM Cloud technology. As a result, I was recognized in the [Social Business Impact Award - 2015 program](https://xiuleiyy.github.io/certificate/SocialBusinessImpactAward.jpg) and [Technical Rock Star for Cloud Platform](https://xiuleiyy.github.io/certificate/TRS_Annual.pdf). 
 
-### Staff/Advisory Software Engineer, IBM Cloud
+### Staff/Advisory Software Engineer, IBM Cloud (2013/01 – 2017/02)
 
 2013/01 – 2017/02, during these 4 years, my responsibilities are quality assurance of IBM Cloud Platform. Focus on developing E2E automation testing cases and automation testing framework. As leader, lead team built Pipeline for Cloud platform to make sure there is a great quality control when each individual component goes live to the production environment. (Testing/Development -> Staging -> Production). Team adopted Jenkins/Maven/Jmeter/Docker/ UrbanCode Deploy/Junit to build a high-efficiency automation testing framework to make CI/CD happened in the whole Cloud platform. 
 
-### Software Engineer, WebShpere Application Server, IBM
+### Software Engineer, WebShpere Application Server, IBM (2009/09 – 2012/12)
 
 2009/09 – 2012/12, start from intern as software testing engineer, responsible for system testing on WebSphere Application Server(WAS). Focus on system E2E/persona testing and customer support in China. 
 
