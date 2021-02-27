@@ -8,7 +8,7 @@
  - Mobile Phone: 13581649539
  - Email: <zhuxiulei@gmail.com>   
  - Github: [https://github.com/xiuleiyy](https://github.com/xiuleiyy)   
- - 中文简历: [https://xiuleiyy.github.io/](https://xiuleiyy.github.io/)   
+ - 中文简历: [https://xiuleiyy.github.io](https://xiuleiyy.github.io/)   
 
 ---
 # Self-Assessment
