@@ -54,11 +54,11 @@
 
 ### 荣誉和奖项
 
- - [IBM Invention Plateau](certificate/Plateau.jpeg) ($1,200)
- - [IBM Technical Rock Star for Cloud Platform](certificate/TRS_Annual.pdf) ($13,000)
+ - [IBM Invention Plateau](https://xiuleiyy.github.io/certificate/Plateau.jpeg) ($1,200)
+ - [IBM Technical Rock Star for Cloud Platform](https://xiuleiyy.github.io/certificate/TRS_Annual.pdf) ($13,000)
  - Solutions Excellence Award ($250)
- - [Social Business Impact Award](certificate/SocialBusinessImpactAward.jpg) ($1,000)
- - [IBM developerWorks Accredited Author](certificate/IBM%20developerWorks%20Accredited%20Author.jpg) (Professional Author 和 [Contributing Author](certificate/IBMdeveloperWorksContributingAuthor.pdf))
+ - [Social Business Impact Award](https://xiuleiyy.github.io/certificate/SocialBusinessImpactAward.jpg) ($1,000)
+ - [IBM developerWorks Accredited Author](https://xiuleiyy.github.io/certificate/IBM%20developerWorks%20Accredited%20Author.jpg) (Professional Author 和 [Contributing Author](https://xiuleiyy.github.io/certificate/IBMdeveloperWorksContributingAuthor.pdf))
  - Manager’s Choose Award (多个)
 
 ### 认证
@@ -98,12 +98,12 @@ ITIL® Foundation Certificate in IT Service Management  2019-05-19
 
 ## 演讲和讲义
 
-  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/)    [录像回放](http://v.youku.com/v_show/id_XMzM1ODU4OTE3Mg==.html?spm=a2h3j.8428770.3416059.1)(从 00:59:00 开始-英文版)    [讲义](resources/PyconHK2016-Bluemix.pdf)
+  - PyCon 2016 香港大会主题演讲: [Keynote talk: Developing Python Applications on Cloud](http://pycon.hk/2016/program/developing-python-applications-on-cloud/)    [录像回放](http://v.youku.com/v_show/id_XMzM1ODU4OTE3Mg==.html?spm=a2h3j.8428770.3416059.1)(从 00:59:00 开始-英文版)    [讲义](https://xiuleiyy.github.io/resources/PyconHK2016-Bluemix.pdf)
   - 视频：[IBM Bluemix - Why? What? AND How? (中文版)](https://v.qq.com/x/page/p0193fp5d1z.html)
-  - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution](resources/TAW-1822%20TeamSun%20Liberty%20V3.pdf) 
-  - 公司内部及外部客户分享：1 - [IBM Bluemix Workshop](resources/IBM_Bluemix_WorkShop_V2.pdf),   2 - [WebSphere Application Server Liberty Profile](resources/WASV85_Jam_Liberty_Overview.pdf),   3 - [Modular & Dynamic OSGi Applications in WebSphere Application Server](resources/WASV8_Jam_OSGi.pdf)
-  - 2012 年广发银行 WebSphere Workshop(现场翻译): [Introducing IBM WebSphere Application Server v8.5 - The Future Is Now](resources/AI%20Workshop%20CGB%20China%20Aug%202012%20client.pdf)
-  - 2011 年北京理工大学共建系(软件学院): [我眼中的 IBM](resources/我眼里的IBM_XiuLei.pdf) 
+  - IBM 全球技术峰会 IMPACT2013: [A China BP Embraces Liberty in PowerLinux Virtualization Solution](https://xiuleiyy.github.io/resources/TAW-1822%20TeamSun%20Liberty%20V3.pdf) 
+  - 公司内部及外部客户分享：1 - [IBM Bluemix Workshop](https://xiuleiyy.github.io/resources/IBM_Bluemix_WorkShop_V2.pdf),   2 - [WebSphere Application Server Liberty Profile](https://xiuleiyy.github.io/resources/WASV85_Jam_Liberty_Overview.pdf),   3 - [Modular & Dynamic OSGi Applications in WebSphere Application Server](https://xiuleiyy.github.io/resources/WASV8_Jam_OSGi.pdf)
+  - 2012 年广发银行 WebSphere Workshop(现场翻译): [Introducing IBM WebSphere Application Server v8.5 - The Future Is Now](https://xiuleiyy.github.io/resources/AI%20Workshop%20CGB%20China%20Aug%202012%20client.pdf)
+  - 2011 年北京理工大学共建系(软件学院): [我眼中的 IBM](https://xiuleiyy.github.io/resources/我眼里的IBM_XiuLei.pdf) 
   - 2010 年大连理工大学软件学院 授课 [IBM WebSphere Application Server On Windows V7管理培训(WA370)](http://www.avtechcn.com/course/was370/)
 ---
 
@@ -113,7 +113,7 @@ ITIL® Foundation Certificate in IT Service Management  2019-05-19
 分别在 2015 年和 2016 年担任 IBM 大中华区的内部社团 C4(China Cloud Computing Community) 的主席。C4 的宗旨是“传播云技术，践行云理念，推进云计算成为公司转型的动力！” 在任职期间，带领团队组织并参与多次关于云计算的内外部分享(包括主题演讲，动手实验室，骇客马拉松等等)；成功举办了大中华区第一次 “IBM 云平台 Bluemix 冠军编程大赛” ；并参与公司大学合作部的项目，在大学进行关于 IBM 云平台和云计算的主题演讲以及相关课程验收。
 
 ## LearningBluemix 微信公众号
-[LearningBluemix](certificate/learningbluemix.jpg) (微信号：IBMBluemix)是我的个人微信公众号，主要关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术，当前订阅用户数：1000+。该公众号大部分为原创文章，内容涉及 IBM 云平台，Cloud Foundry, Kubernetes 以及 Docker等云技术，旨在推广相关云产品和云技术在企业级领域的应用。
+[LearningBluemix](https://xiuleiyy.github.io/certificate/learningbluemix.jpg) (微信号：IBMBluemix)是我的个人微信公众号，主要关注 IBM Cloud (曾用名：IBM Bluemix）及相关云平台和云技术，当前订阅用户数：1000+。该公众号大部分为原创文章，内容涉及 IBM 云平台，Cloud Foundry, Kubernetes 以及 Docker等云技术，旨在推广相关云产品和云技术在企业级领域的应用。
 
 ---
 
