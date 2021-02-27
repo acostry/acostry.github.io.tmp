@@ -60,8 +60,8 @@ As Automation Tooling leader, responsible for developing and operating the tooli
 
 #  Education
 
-2008/09 – 2010/07   Beijing Institute of Technology   Computer Science   Master   
-2004/09 – 2008/07   Anhui University of Science and Technology           Computer Science   Bachelor   
+2008/09 – 2010/07   Beijing Institute of Technology,   Computer Science,   Master   
+2004/09 – 2008/07   Anhui University of Science and Technology,           Computer Science,   Bachelor   
 
 ---
 
