@@ -75,7 +75,7 @@ As Automation Tooling leader, responsible for developing and operating the tooli
 ## Article
 
 18 technical articles published in IBM developerWorks website   
-Technical Blog: [CSDN Blog](https://blog.csdn.net/acostry)   
+Technical Blog: [https://blog.csdn.net/acostry](https://blog.csdn.net/acostry)   
 
 ## Speech
 
