@@ -7,8 +7,8 @@
  - 工作年限：11年 (截止到2021)  
  - 工作地点：北京  
  - Github：[https://github.com/xiuleiyy](https://github.com/xiuleiyy)  
- - 技术博客：[https://blog.csdn.net/acostry](http://blog.csdn.net/acostry) 
- - 英文简历：[]()  
+ - 技术博客：[https://blog.csdn.net/acostry](http://blog.csdn.net/acostry)  
+ - 英文简历：[tbd]()  
 ---
 
 # 工作经历
@@ -104,7 +104,6 @@ ITIL® Foundation Certificate in IT Service Management  2019-05-19
   - 2012 年广发银行 WebSphere Workshop(现场翻译): [Introducing IBM WebSphere Application Server v8.5 - The Future Is Now](resources/AI%20Workshop%20CGB%20China%20Aug%202012%20client.pdf)
   - 2011 年北京理工大学共建系(软件学院): [我眼中的 IBM](resources/我眼里的IBM_XiuLei.pdf) 
   - 2010 年大连理工大学软件学院 授课 [IBM WebSphere Application Server On Windows V7管理培训(WA370)](http://www.avtechcn.com/course/was370/)
-
 ---
 
 # 社团(区)工作
