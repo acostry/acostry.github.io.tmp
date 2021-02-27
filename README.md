@@ -50,18 +50,22 @@
 
 2009年9月到2012年12月，主要的工作职责是 Websphere Application Server(WAS) 系列中间件产品的质量保证(主要包括系统集成测试和系统验证性测试)。团队主要负责从终端用户的角度出发，开发端到端的测试用例并执行，同时也为国内 WAS 中间件客户提供线下支持。
 
-工作内容主要有：WAS V6/V7 版本在新版本系统操作系统上的验证性测试，WAS V7 OSGi/V8/V8.5 版本的系统测试；对国内 WAS 中间件客户进行客户支持(例如：华胜天成/广发银行/华为/中国电信/中国建设银行/中国工商银行/中国人民银行/用友等)。
+工作内容主要有：WAS V6/V7 版本在新版本系统操作系统上的验证性测试，WAS V7 OSGi/V8/V8.5 版本的系统测试；对国内 WAS 中间件客户进行客户支持(例如：华胜天成/广发银行/华为/中国电信/中国建设银行/中国工商银行/中国人民银行/用友等)。   
 
-### 荣誉和奖项
+---
+
+# 荣誉和奖项
 
  - [IBM Invention Plateau](https://xiuleiyy.github.io/certificate/Plateau.jpeg) ($1,200)
  - [IBM Technical Rock Star for Cloud Platform](https://xiuleiyy.github.io/certificate/TRS_Annual.pdf) ($13,000)
  - Solutions Excellence Award ($250)
  - [Social Business Impact Award](https://xiuleiyy.github.io/certificate/SocialBusinessImpactAward.jpg) ($1,000)
- - [IBM developerWorks Accredited Author](https://xiuleiyy.github.io/certificate/IBM%20developerWorks%20Accredited%20Author.jpg) (Professional Author 和 [Contributing Author](https://xiuleiyy.github.io/certificate/IBMdeveloperWorksContributingAuthor.pdf))
- - Manager’s Choose Award (多个)
+ - [IBM developerWorks Accredited Author](https://xiuleiyy.github.io/certificate/IBM%20developerWorks%20Accredited%20Author.jpg) (Professional Author 和 [Contributing Author](https://xiuleiyy.github.io/certificate/IBMdeveloperWorksContributingAuthor.pdf))   
+ - Manager’s Choose Award (多个)   
 
-### 认证
+---
+
+# 认证
  - ITIL® Foundation Certificate in IT Service Management  2019-05-19     
  - [IBM Cloud Certified on different areas](https://www.youracclaim.com/users/acostry/badges)    
 
