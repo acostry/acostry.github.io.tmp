@@ -89,7 +89,7 @@ and dozens of speech/sharing in China for local customers.
  - [IBM Technical Rock Star for Cloud Platform ($13000)](https://xiuleiyy.github.io/certificate/TRS_Annual.pdf)
  - Solutions Excellence Award ($250) 
  - [Social Business Impact Award ($1000)](https://xiuleiyy.github.io/certificate/SocialBusinessImpactAward.jpg)
- - [IBM developerWorks Accredited Author](https://xiuleiyy.github.io/certificate/IBM developerWorks Accredited Author.jpg) (Professional Author and [Contributing Author](https://xiuleiyy.github.io/certificate/IBMdeveloperWorksContributingAuthor.pdf))
+ - [IBM developerWorks Accredited Author](https://xiuleiyy.github.io/certificate/IBM%20developerWorks%20Accredited%20Author.jpg) (Professional Author and [Contributing Author](https://xiuleiyy.github.io/certificate/IBMdeveloperWorksContributingAuthor.pdf))
  - Manager’s Choose Award (multiple)   
 
 ---
