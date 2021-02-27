@@ -7,7 +7,7 @@
  - 工作年限：11年 (截止到2021)  
  - 工作地点：北京  
  - Github：[https://github.com/xiuleiyy](https://github.com/xiuleiyy)  
- - 技术博客：[https://blog.csdn.net/acostry](http://blog.csdn.net/acostry)  
+ - 技术博客：[https://blog.csdn.net/acostry](http://blog.csdn.net/acostry)   
  - 英文简历：[点我](EN.md)    
  
 ---
